@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# Environment variables and API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit
+.streamlit/
+
+# Uploaded documents
+uploads/
+
+# Generated outputs
+outputs/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Separate lab work
+Python Lab/
